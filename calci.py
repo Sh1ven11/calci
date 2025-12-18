@@ -9,4 +9,5 @@ elif choice == 2:
     print("Subtraction not done yet")
 else:
     print("Invalid choice")
+print("Thank you for using the calculator")
 
